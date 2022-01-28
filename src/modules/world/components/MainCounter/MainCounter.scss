@@ -1,0 +1,18 @@
+.main-counter{
+    border: 1px solid gray;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    max-width: 300px;
+    .counter__title{
+        text-align: center;
+        color: gray;
+    }
+    .counter__data-item{
+        padding: 5px;
+    }
+    .counter__data-item:last-child{
+        font-size: 12px;
+        text-align: center;
+    }
+}

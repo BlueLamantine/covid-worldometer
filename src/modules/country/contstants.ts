@@ -1,0 +1,1 @@
+export const START_DATE_OF_STATISTICS = '01-24-2020';

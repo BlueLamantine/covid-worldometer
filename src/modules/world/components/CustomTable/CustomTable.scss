@@ -1,0 +1,19 @@
+.main-table {
+    border-collapse: collapse;
+    width: 450px;
+    font-size: 13px;
+    padding: 10px;
+    th,
+    td {
+        text-align: left;
+        padding: 5px;
+    }
+    .table-link {
+        text-decoration: none;
+        outline: none;
+        color: black;
+    }
+    .table-link:hover {
+        color: orange;
+    }
+}
